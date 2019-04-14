@@ -7,6 +7,7 @@
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >>本仓库（原）收录中国科学技术大学众多课程资源的笔记，总结，经验等**学生原创内容**
+
 >>该仓库从原仓库迁移至此，**请注意版权及出处**。
 
 # 目录索引
