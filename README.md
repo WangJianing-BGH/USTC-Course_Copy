@@ -6,7 +6,8 @@
 [![repo-size](https://img.shields.io/github/repo-size/USTC-Resource/USTC-Course.svg)]()
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
->>本仓库收录中国科学技术大学众多课程资源的笔记，总结，经验等**学生原创内容**
+>>本仓库（原）收录中国科学技术大学众多课程资源的笔记，总结，经验等**学生原创内容**
+>>该仓库从原仓库迁移至此，**请注意版权及出处**。
 
 # 目录索引
 * [版权说明](#版权说明)
@@ -85,6 +86,7 @@ course
 - 吴颖文
 - 童世炜
 - 熊家靖
+- 王嘉宁
 
 如果遗漏了你的名字，可自行 PR 或者联系贡献者。
 
